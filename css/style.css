@@ -1,0 +1,35 @@
+header{
+    height: 200px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+.content{
+    overflow: hidden;
+}
+.left{
+    float: left;
+    height: 300px;
+    background-color: violet;
+    width: 50%;
+}
+.left_one{
+    height: 50%;
+    background-color: green;
+}
+.left_twp{
+    height: 50%;
+    background-color: chocolate;
+}
+.right{
+    float: right;
+    height: 300px;
+    background-color: tomato;
+    width: 50%;
+}
+footer{
+    height: 500px;
+    background-color: cornsilk;
+    text-align: center;
+    color: black;
+}
